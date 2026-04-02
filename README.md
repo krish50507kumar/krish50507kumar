@@ -46,11 +46,21 @@ class MLEngineer:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+### 🗄️ Backend & Databases
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ MLOps & Infra
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🧩 Core Strength
+- Python (ML systems, NumPy-based implementations)
+- C (low-level understanding, memory & performance basics)
 
 
 ---
@@ -63,7 +73,8 @@ class MLEngineer:
       <h3 align="center">🔬 Mini Neural Network Framework</h3>
       <p align="center">
         Minimal deep learning framework implementing automatic differentiation, backpropagation, and tensor-based computation, with support for configurable layers, loss functions, and optimizers.<br><br>
-        <code>Numpy</code> 
+        <code>
+        Numpy</code> 
       </p>
     </td>
     <td width="50%">
@@ -144,7 +155,8 @@ Supports binary + multiclass classification, multiple optimizers, regularization
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/krish6399kumar)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krish50507)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krish50507@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krish50507@gmail.com)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Krish6399kumar?theme=dark&font=Fira%20Code&ext=contest)
 
 </div>
 
