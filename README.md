@@ -112,6 +112,7 @@ Supports binary + multiclass classification, multiple optimizers, regularization
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krish50507kumar&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krish50507kumar&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krish50507kumar&theme=tokyonight&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Krish6399kumar?theme=dark&font=Fira%20Code&ext=contest)
 
 </div>
 
@@ -155,7 +156,6 @@ Supports binary + multiclass classification, multiple optimizers, regularization
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/krish50507)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Krish50507@gmail.com)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Krish6399kumar?theme=dark&font=Fira%20Code&ext=contest)
 
 </div>
 
