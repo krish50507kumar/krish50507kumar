@@ -109,9 +109,9 @@ Supports binary + multiclass classification, multiple optimizers, regularization
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krish50507kumar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krish50507kumar&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=krish50507kumar&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krish50507kumar&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krish50507kumar&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=krish50507kumar&theme=dark&hide_border=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Krish6399kumar?theme=dark&font=Fira%20Code&ext=contest)
 
 </div>
