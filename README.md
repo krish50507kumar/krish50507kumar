@@ -63,8 +63,7 @@ class MLEngineer:
       <h3 align="center">🔬 Mini Neural Network Framework</h3>
       <p align="center">
         Minimal deep learning framework implementing automatic differentiation, backpropagation, and tensor-based computation, with support for configurable layers, loss functions, and optimizers.<br><br>
-        <code>
-        Numpy</code> 
+        <code>Numpy</code> 
       </p>
     </td>
     <td width="50%">
