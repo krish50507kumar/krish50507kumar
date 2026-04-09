@@ -172,7 +172,7 @@ while alive:
     repeat()
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=krish50507kumar&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)
 
 *"All models are wrong, but some are useful." — George Box*
 
